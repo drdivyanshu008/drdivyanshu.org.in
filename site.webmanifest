@@ -1,0 +1,11 @@
+{
+  "name": "Dr. Divyanshu Patel — Integrative Medicine",
+  "short_name": "DrDP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f14",
+  "theme_color": "#0b0f14",
+  "icons": [
+    {"src": "favicon.png", "sizes": "64x64", "type": "image/png"}
+  ]
+}
